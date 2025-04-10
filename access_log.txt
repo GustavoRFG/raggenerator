@@ -1,0 +1,17 @@
+Acesso 1 | IP: 127.0.0.1 | Projeto: default | Pergunta: Qual é a proposta pedagógica?
+Acesso 2 | IP: 127.0.0.1 | Projeto: default | Pergunta: Qual é o último dia letivo do ano?
+Acesso 3 | IP: 127.0.0.1 | Projeto: default | Pergunta: Quando ocorre o término do ano letivo?
+Acesso 4 | IP: 127.0.0.1 | Projeto: Testeando | Pergunta: Quando ocorre o término do ano letivo?
+Acesso 1 | IP: 127.0.0.1 | Projeto: Testando | Pergunta: Fale sobre o ítem Equivalência de Estudo.
+Acesso 2 | IP: 127.0.0.1 | Projeto: Testando | Pergunta: Fale algo relevante sobre o arquivo Regimento Escolar.
+Acesso 3 | IP: 127.0.0.1 | Projeto: Testando | Pergunta: Quem é o diretor do colégio?
+Acesso 1 | IP: 127.0.0.1 | Projeto: Futebol | Pergunta: Explique as regras relacionadas ao pênalti
+Acesso 1 | IP: 127.0.0.1 | Projeto: Futtt | Pergunta: Flae sobre o intervalo
+Acesso 2 | IP: 127.0.0.1 | Projeto: Futtt | Pergunta: Fale sobre o intervalo... quanto tempo?
+Acesso 3 | IP: 127.0.0.1 | Projeto: Futtt | Pergunta: Esse documento é sobre o que?
+Acesso 4 | IP: 127.0.0.1 | Projeto: Futtt | Pergunta: De qual esporte trata o documento?
+Acesso 5 | IP: 127.0.0.1 | Projeto: Futtt | Pergunta: Referente a qual ano é o documento?
+Acesso 6 | IP: 127.0.0.1 | Projeto: default | Pergunta: Quando se encerra o ano letivo?
+Acesso 1 | IP: 127.0.0.1 | Projeto: Fuksnk | Pergunta: Qual é a data do término no ano letivo segundo o arquivo?
+Acesso 2 | IP: 127.0.0.1 | Projeto: Froster | Pergunta: Qual é a data do termino do ano letivo?
+Acesso 3 | IP: 127.0.0.1 | Projeto: Froster | Pergunta: Qual é a data do termino do ano letivo no Médio e no Infantil?
